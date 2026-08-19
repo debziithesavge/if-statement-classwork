@@ -13,4 +13,3 @@ if (role ==="The Admin"){
     console.log("This is not an Admin");
 
 }
-    

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: greenyellow;
+    margin: 5rem 20rem;
+}
+
+.hero-section h1{
+    padding: 5rem;
+}
+
+.hero-section button{
+    margin-bottom: 2rem;
+    padding: 1rem .5rem;
+    border-radius: 20%;
+}
